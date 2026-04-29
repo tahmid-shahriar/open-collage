@@ -1,0 +1,33 @@
+:root {
+  --text: #e8e6ec;
+  --muted: #9ca3af;
+  --bg: #0c0d10;
+  --panel: #14161c;
+  --border: #2a2d36;
+  --cell-bg: #0f1014;
+  --input-bg: #1a1c24;
+  --accent: #7c3aed;
+  --accent-fg: #faf5ff;
+  --drop-hover: rgba(124, 58, 237, 0.08);
+
+  font-family: system-ui, 'Segoe UI', Roboto, sans-serif;
+  line-height: 1.45;
+  color: var(--text);
+  background: var(--bg);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100svh;
+}
+
+#root {
+  min-height: 100svh;
+}

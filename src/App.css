@@ -1,0 +1,11 @@
+.app-root {
+  min-height: 100vh;
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}
+.app-header {
+  padding: 2rem;
+}
+.tagline {
+  opacity: 0.75;
+}
