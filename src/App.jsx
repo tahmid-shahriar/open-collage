@@ -1121,7 +1121,7 @@ export default function App() {
   return (
     <div className="app">
       <header className="header">
-        <h1>Video collage</h1>
+        <h1>Open Collage</h1>
         <p className="lede">
           Set a grid and add a photo or video per cell, then export a single MP4 collage. Length
           follows the longest video; photo-only grids use the duration you set below.
