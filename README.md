@@ -1,6 +1,6 @@
 # Open Collage
 
-Browser-based video collage editor built with React and Vite.
+Browser-based collage editor built with React and Vite.
 
 ## Features
 
